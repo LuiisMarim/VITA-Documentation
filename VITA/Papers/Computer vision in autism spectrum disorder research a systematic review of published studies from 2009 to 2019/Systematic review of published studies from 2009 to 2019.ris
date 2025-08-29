@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - de Belen, Ryan Anthony J.
+AU  - Bednarz, Tomasz
+AU  - Sowmya, Arcot
+AU  - Del Favero, Dennis
+PY  - 2020
+DA  - 2020/09/30
+TI  - Computer vision in autism spectrum disorder research: a systematic review of published studies from 2009 to 2019
+JO  - Translational Psychiatry
+SP  - 333
+VL  - 10
+IS  - 1
+AB  - The current state of computer vision methods applied to autism spectrum disorder (ASD) research has not been well established. Increasing evidence suggests that computer vision techniques have a strong impact on autism research. The primary objective of this systematic review is to examine how computer vision analysis has been useful in ASD diagnosis, therapy and autism research in general. A systematic review of publications indexed on PubMed, IEEE Xplore and ACM Digital Library was conducted from 2009 to 2019. Search terms included [‘autis*’ AND (‘computer vision’ OR ‘behavio* imaging’ OR ‘behavio* analysis’ OR ‘affective computing’)]. Results are reported according to PRISMA statement. A total of 94 studies are included in the analysis. Eligible papers are categorised based on the potential biological/behavioural markers quantified in each study. Then, different computer vision approaches that were employed in the included papers are described. Different publicly available datasets are also reviewed in order to rapidly familiarise researchers with datasets applicable to their field and to accelerate both new behavioural and technological work on autism research. Finally, future research directions are outlined. The findings in this review suggest that computer vision analysis is useful for the quantification of behavioural/biological markers which can further lead to a more objective analysis in autism research.
+SN  - 2158-3188
+UR  - https://doi.org/10.1038/s41398-020-01015-w
+DO  - 10.1038/s41398-020-01015-w
+ID  - de Belen2020
+ER  - 

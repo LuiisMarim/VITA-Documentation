@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Mahmood, Mahmood A.
+AU  - Jamel, Leila
+AU  - Alturki, Nazik
+AU  - Tawfeek, Medhat A.
+PY  - 2025
+DA  - 2025/04/08
+TI  - Leveraging artificial intelligence for diagnosis of children autism through facial expressions
+JO  - Scientific Reports
+SP  - 11945
+VL  - 15
+IS  - 1
+AB  - The global population contains a substantial number of individuals who experience autism spectrum disorder, thus requiring immediate identification to enable successful intervention approaches. The authors assess the detection of autism-related learning difficulties in children by evaluating deep learning models that use transfer learning methods along with fine-tuning methods. Using autism spectrum disorder (ASD) diagnosed child RGB images data, researchers evaluated six prevalent deep learning structures: DenseNet201, ResNet152, VGG16, VGG19, MobileNetV2, and EfficientNet-B0. ResNet152 reached the highest accuracy rate of 89% when functioning independently. This paper develops a hybrid deep-learning model by integrating ResNet152 with Vision Transformers (ViT) to achieve better classification performance. The ViT-ResNet152 model’s convolutional and transformer processing elements worked together to improve the accuracy of the diagnosis to 91.33% and make it better at finding different cases of autism spectrum disorder (ASD).The research outcomes demonstrate that AI tools show promise for delivering highly precise and standardized methods to detect ASD at an early stage. Future research needs to include multiple data types as well as extend dataset variability while optimizing hybrid architecture systems to elevate diagnostic forecasting. The incorporation of artificial intelligence in ASD evaluation services holds promise to transform early therapy approaches, which leads to better results for autistic children all around the globe.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-96014-6
+DO  - 10.1038/s41598-025-96014-6
+ID  - Mahmood2025
+ER  - 
