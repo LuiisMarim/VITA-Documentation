@@ -1,10 +1,3 @@
-Boa! Agora que vi a estrutura real do seu projeto (pela imagem que você mandou), vou ajustar o `README.md` para refletir **exatamente essa organização**.
-
----
-
-# 📄 README.md
-
-````markdown
 # Reconhecimento de AUs (Facial Action Units) com Py-Feat
 
 Este projeto utiliza a biblioteca [py-feat](https://py-feat.org/) para detectar **Action Units (AUs)** faciais em imagens.  
@@ -88,6 +81,4 @@ Na imagem exibida:
 
 * **FACS (Facial Action Coding System)**: Paul Ekman & Wallace V. Friesen.
 * [py-feat Documentation](https://py-feat.org/)
-
-```
 
