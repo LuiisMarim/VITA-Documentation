@@ -71,10 +71,6 @@ AU07 (Tensao da palpebra): 1.00
 AU12 (Sorriso - elevacao do canto da boca): 0.84
 ...
 ```
-
-Na imagem exibida:
-➡️ Texto indicando a **AU dominante** (ex.: "AU07: Tensao da palpebra").
-
 ---
 
 ## 📚 Referências
