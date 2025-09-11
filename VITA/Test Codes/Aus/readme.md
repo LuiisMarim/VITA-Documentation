@@ -73,6 +73,11 @@ AU12 (Sorriso - elevacao do canto da boca): 0.84
 ```
 ---
 
+## ⬇️ Códgio
+[Clique aqui.](https://github.com/LuiisMarim/VITA-Documentation/blob/main/VITA/Test%20Codes/Aus/detect_aus_image.py)
+
+---
+
 ## 📚 Referências
 
 * **FACS (Facial Action Coding System)**: Paul Ekman & Wallace V. Friesen.
