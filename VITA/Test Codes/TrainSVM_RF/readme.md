@@ -183,3 +183,6 @@ Valores das Action Units:
 
 - [train_models.py](https://github.com/LuiisMarim/VITA-Documentation/blob/main/VITA/Test%20Codes/Train/train_models.py)
 - [evaluate_models.py](https://github.com/LuiisMarim/VITA-Documentation/blob/main/VITA/Test%20Codes/Train/evaluate_models.py)
+
+
+⚠️ OBS: Ambas as imagens referentes a pasta "TrainSVM_RF" são de individuos com TEA.
