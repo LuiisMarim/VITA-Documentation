@@ -39,10 +39,10 @@ def evaluate_models(csv_path="BuildDataset/dataset_faus.csv"):
     y = df["label"].map({"autistic": 1, "non_autistic": 0})
 
     # Carregar modelos e pré-processadores
-    svm_model = joblib.load("TrainSMV_RF/svm_model.pkl")
-    rf_model = joblib.load("TrainSMV_RF/rf_model.pkl")
-    scaler = joblib.load("TrainSMV_RF/scaler.pkl")
-    imputer = joblib.load("TrainSMV_RF/imputer.pkl")  # Carregar o imputer também
+    svm_model = joblib.load("TrainSVM_RF/svm_model.pkl")
+    rf_model = joblib.load("TrainSVM_RF/rf_model.pkl")
+    scaler = joblib.load("TrainSVM_RF/scaler.pkl")
+    imputer = joblib.load("TrainSVM_RF/imputer.pkl")  # Carregar o imputer também
 
     # Aplicar o mesmo pré-processamento do treinamento
     X_imputed = imputer.transform(X)  # Tratar valores NaN

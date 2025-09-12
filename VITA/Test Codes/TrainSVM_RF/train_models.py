@@ -119,10 +119,10 @@ def train_and_save_models(csv_path=csv):
     # ---------------------------------------------------
     # Salvamento dos modelos e pré-processadores
     # ---------------------------------------------------
-    joblib.dump(svm_model, "svm_model.pkl")
-    joblib.dump(rf_model, "rf_model.pkl")
-    joblib.dump(scaler, "scaler.pkl")
-    joblib.dump(imputer, "imputer.pkl")
+    joblib.dump(svm_model, "TrainSVM_RF/svm_model.pkl")
+    joblib.dump(rf_model, "TrainSVM_RF/rf_model.pkl")
+    joblib.dump(scaler, "TrainSVM_RF/scaler.pkl")
+    joblib.dump(imputer, "TrainSVM_RF/imputer.pkl")
 
     print("✅ Modelos treinados e salvos com sucesso!")
     print("📁 Arquivos salvos: svm_model.pkl, rf_model.pkl, scaler.pkl, imputer.pkl")
