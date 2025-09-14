@@ -8,7 +8,7 @@
   
   <br>
   
-  <sub><strong>VITA</strong> <strong>V</strong>ision-based <strong>I</strong>ntelligent <strong>T</strong>race <strong>A</strong>nalyzer</sub>
+  <sub><strong>VITA</strong> <strong>V</strong>isual <strong>I</strong>ntelligence for <strong>T</strong>rait <strong>A</strong>nalysis</sub>
   
   <br><br>
   
