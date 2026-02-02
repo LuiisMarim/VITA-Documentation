@@ -12,5 +12,5 @@
   
   <br><br>
   
-  [![Acesse a WIKI do projeto](https://img.shields.io/badge/ACESSE_A_WIKI-Documentação_completa-1a2a6c?style=for-the-badge&logo=github)](https://github.com/LuiisMarim/VITA-Documentation/wiki)
+  [![Acesse a WIKI do projeto](https://img.shields.io/badge/ACESSE_A_WIKI-Documentação_completa-1a2a6c?style=for-the-badge&logo=github)](http://github.com/LuiisMarim/vita-ihc/wiki/_new)
 </div>
