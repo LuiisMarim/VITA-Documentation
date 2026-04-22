@@ -49,7 +49,8 @@ Esses dois movimentos **calibram o estado interno** do entrevistado. Você desco
 
 ---
 
-### FASE 4 — Síntese e Co-construção *Objetivo: Transformar a crítica em insumo construtivo*
+### FASE 4 — Síntese e Co-construção 
+*Objetivo: Transformar a crítica em insumo construtivo*
 
 > 12. *"Se você pudesse mudar uma coisa no relatório do VITA para que ele fosse realmente útil no seu consultório, o que seria?"*
 
