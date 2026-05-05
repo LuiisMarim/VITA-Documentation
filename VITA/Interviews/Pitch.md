@@ -1,8 +1,3 @@
-pitch com **gancho emocional forte (pitch 1)** + **estrutura direta e clara (pitch 4)**.
-
----
-
-# **PITCH FINAL (Equilibrado: Pathos + Clareza + Impacto)**
 
 ## **Introdução (30 segundos)**
 
