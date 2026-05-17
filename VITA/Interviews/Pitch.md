@@ -77,7 +77,7 @@ O VITA não substitui especialistas.
 
 Ele potencializa decisões críticas no momento certo.
 
-Agora estamos evoluindo para uma abordagem multimodal, integrando mais dados e ampliando ainda mais a precisão clínica.
+Agora estamos evoluindo ainda mais nossa abordagem, integrando mais dados e ampliando ainda mais a precisão clínica.
 
 A tecnologia já mostrou que funciona.
 
