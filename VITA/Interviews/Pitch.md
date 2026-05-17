@@ -63,7 +63,7 @@ O impacto não é só eficiência.
 
 É antecipar cuidado.
 
-É transformar incerteza em दिशा clara.
+É transformar incerteza em direção clara.
 
 É dar ao profissional uma segunda opinião objetiva, no momento em que ele mais precisa.
 
